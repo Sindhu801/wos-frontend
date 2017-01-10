@@ -1,0 +1,42 @@
+{
+  "esversion" : 6,
+  "bitwise": true,
+  "browser": true,
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "expr": false,
+  "forin": true,
+  "freeze": true,
+  "immed": true,
+  "indent": 2,
+  "latedef": false,
+  "newcap": true,
+  "noarg": true,
+  "node": true,
+  "noempty": true,
+  "nonew": false,
+  "nonbsp": true,
+  "plusplus": true,
+  "quotmark": "single",
+  "trailing": true,
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "white": true,
+  "jquery": true,
+  "mocha": true,
+  "globals": {
+    "d3": true,
+    "angular": true,
+    "chai": true,  //testing lib
+    "expect": true, //testing lib
+    "iconate": true,
+    "inject": true, //testing lib
+    "JSON": true,
+    "onepsecurity": true,  //login lib
+    "sinon": true, //testing lib
+    "_": false,
+    "readJSON": true
+  }
+}

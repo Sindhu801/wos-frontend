@@ -1,0 +1,20 @@
+{
+  "preset": "airbnb",
+  "disallowKeywordsOnNewLine": null,
+  "disallowMultipleLineBreaks": null,
+  "disallowQuotedKeysInObjects": "allButReserved",
+  "disallowSpaceBeforeSemicolon": null,
+  "disallowSpacesInFunctionExpression": null,
+  "disallowSpacesInAnonymousFunctionExpression": null,
+  "maximumLineLength": null,
+  "requireLineFeedAtFileEnd": null,
+  "requirePaddingNewLinesAfterBlocks": null,
+  "requirePaddingNewLinesBeforeLineComments": null,
+  "requireSpacesInsideObjectBrackets": null,
+  "requireSpacesInAnonymousFunctionExpression": null,
+  "validateLineBreaks": "LF",
+  "requireTrailingComma": null,
+  "verbose": true,
+  "maximumLineLength": null,
+  "safeContextKeyword": ["_this", "vm"]
+}
